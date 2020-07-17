@@ -1,2 +1,2 @@
-# bettadays-RS2020Q1
-Private repository for @bettadays
+# english-for-kids
+[link to deployed application](https://bettadays-english-for-kids.netlify.app/)
