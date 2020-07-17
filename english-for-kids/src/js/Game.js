@@ -91,6 +91,7 @@ class PlayGame extends Observer {
     if (this.resultShown) {
       state.page = 'main';
       state.mode = 'play';
+      state.category = '';
       this.resultShown = false;
       this.appState.update(state);
     }
